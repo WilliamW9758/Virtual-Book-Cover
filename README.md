@@ -16,7 +16,7 @@ The registration is sometimes not great even with the additional stickers. If th
 Lighting was also an issue. Since it is very difficult to emulate the real lighting of the environment, I opt for using unlit materials on most virtual objects. 
 
 ## Demo
-Video demo: https://youtu.be/jvrVFExXME4
+Video demo: [https://youtu.be/jvrVFExXME4](https://www.youtube.com/watch?v=xVAo4austIE)
 
 Front Cover:
 ![Front Cover](/Images/front_cover.png)
